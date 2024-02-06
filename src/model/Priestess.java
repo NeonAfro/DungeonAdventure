@@ -1,3 +1,7 @@
+package model;
+
+import model.Hero;
+
 public abstract class Priestess extends Hero {
     protected int skillHealing;
 

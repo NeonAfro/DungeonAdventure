@@ -1,3 +1,7 @@
+package model;
+
+import model.DungeonCharacter;
+
 public abstract class Monster extends DungeonCharacter {
     protected int healChance;
     protected int[] healRange;

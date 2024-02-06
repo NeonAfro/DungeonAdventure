@@ -1,3 +1,5 @@
+package model;
+
 public abstract class DungeonCharacter {
     protected String name;
     protected int healthPoints;

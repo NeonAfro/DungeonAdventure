@@ -1,3 +1,7 @@
+package model;
+
+import model.DungeonCharacter;
+
 public abstract class Hero extends DungeonCharacter {
     protected int blockChance;
     protected String skillName;
