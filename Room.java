@@ -3,7 +3,6 @@ public class Room extends Dungeon {
 
     @Override
     public String toString() {
-
-        return "Room type: " + this.type;
+        return "";
     }
 }

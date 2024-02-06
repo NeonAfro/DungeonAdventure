@@ -1,9 +1,6 @@
-
-
-// DungeonAdventure class as the main controller
 public class DungeonAdventure {
-    //private Adventurer adventurer;
-    //private Dungeon dungeon;
+    private Adventurer adventurer;
+    private Dungeon dungeon;
     private GameWindow gameWindow;
 
     public DungeonAdventure() {
