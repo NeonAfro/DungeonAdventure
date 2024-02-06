@@ -11,8 +11,8 @@ public abstract class DungeonCharacter {
         this.name = name;
         this.healthPoints = healthPoints;
         this.damageRange = damageRange;
-        this.attackSpeed = attackSpeed;
         this.hitChance = hitChance;
+        this.attackSpeed = attackSpeed;
     }
 
     public void setHealthPoints(int healthPoints) {
